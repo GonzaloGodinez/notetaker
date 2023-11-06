@@ -1,11 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "First Note",
         "text": "First note created",
         "id": "6c29a321-d325-4ef4-bafb-9aa9797b7018"
+    },
+    {
+        "title": "First Note",
+        "text": "initial Note\n",
+        "id": "924baf9d-18fb-44c7-868f-225983bc3593"
     }
 ]
